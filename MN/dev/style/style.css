@@ -1,0 +1,248 @@
+
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v6/EgBlzoNBIHxNPCMwXaAhYPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Serif Bold'), local('PTSerif-Bold'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v6/QABk9IxT-LFTJ_dQzv7xpJ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Serif Italic'), local('PTSerif-Italic'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v6/03aPdn7fFF3H6ngCgAlQzC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Serif Bold Italic'), local('PTSerif-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/ptserif/v6/Foydq9xJp--nfYIx2TBz9fEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Raleway Thin'), local('Raleway-Thin'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/RJMlAoFXXQEzZoMSUteGWKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Raleway ExtraLight'), local('Raleway-ExtraLight'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/8KhZd3VQBtXTAznvKjw-ky3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), url(http://mn.com/dev/font/raleway2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Raleway Medium'), local('Raleway-Medium'), url(http://mn.com/dev/font/raleway.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/xkvoNo9fC8O2RDydKj12by3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Raleway Bold'), local('Raleway-Bold'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/JbtMzqLaYbbbCL9X6EvaIy3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Raleway ExtraBold'), local('Raleway-ExtraBold'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/1ImRNPx4870-D9a1EBUdPC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Raleway Heavy'), local('Raleway-Heavy'), url(http://themes.googleusercontent.com/static/fonts/raleway/v7/PKCRbVvRfd5n7BTjtGiFZC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+body{
+  font-family: "Raleway", sans-serif !important;
+  font-weight: 500 !important;
+}
+#main {
+    left: 50%;
+    top: 23%;
+    width: 500px;
+    background: hsl(0, 0%, 98%);
+    /* font-weight:bold; */
+    /* font-size : 12px; */
+    margin-left: -250px;
+    box-shadow: 1px 2px 1px hsla(0, 0%, 80%, 0.36);
+    position: absolute;
+    height: 308px;
+    padding: 25px;
+    outline: none;
+}
+input:focus,select:focus{
+  outline: none;
+  border: 1px solid hsl(220, 50%, 50%);
+}
+.left li:hover {
+  background: hsl(240, 58%, 49%);
+}
+.left li a {
+  transition: 1s;
+}
+.left li:hover a {
+  color: #fff;
+
+}
+.left span{
+    font-size: 20px;
+  
+    padding: 7px 5px 13px 20px;
+    border-bottom: 1px solid hsl(0, 0%, 80%);
+    margin-left: 9px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: 400 !important;
+}
+input[type="submit"] {
+	/* font-size: 19px; */
+	/* font-size: 19px; */
+	width: 100px;
+	margin-left: 246px;
+	background: hsl(0, 50%, 50%);
+	color: hsl(0, 0%, 92%);
+	cursor: pointer;
+	font-size: 17px;
+	height: 37px;
+  
+	outline: none;
+	font-weight: 100;
+}
+input[type="submit"]:hover{
+  background: hsl(0, 60%, 50%);
+}
+table{
+  /* padding: 10px; */
+  margin-top: -12px;
+  height: 179PX;
+}
+form {
+    margin-top: 22px;
+	
+	
+    border: 1px solid hsl(0, 0%, 95%);
+	
+    background: hsl(0, 0%, 99%);
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-weight: 500;
+    font-size: 18px;
+    padding: 13px;
+    margin-bottom:10px;
+    height: 173px;
+    padding-top: 51px;
+    width: 459px;
+}
+
+#result {
+    margin-left: 100px;
+	border: 1px solid #cccccc;
+	width: 160px;
+	background: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:50px;
+}
+.text {
+  border: 1px solid hsl(0, 0%, 80%);
+  width: 96%;
+  height: 25PX;
+  font-size: 20px;
+  padding: 7px;
+  /* display: inline-flex; */
+  font-weight: 400 !important;
+  
+  font-family: "Raleway", sans-serif !important;
+}
+.right input[type=text],select {
+	border: 1px solid hsl(0, 0%, 80%);
+	width: 100%;
+	height: 40PX;
+	font-size: 20px;
+	padding: 7px;
+	/* display: inline-flex; */
+	font-weight: 400 !important;
+	
+	font-family: "Raleway", sans-serif !important;
+}
+.right select{
+  font-size: 17px;
+  width: 160px;
+}
+input {
+    border: 0px solid #cccccc;
+}
+
+.values{
+  font-family: verdana;
+  font-weight:normal;
+  font-size : 10px;
+  align:top;
+  vertical-align:top;
+}
+
+.key{
+  font-family: verdana;
+  font-weight:bold;
+  font-size : 12px;
+  padding-bottom:15px;
+}
+
+
+.caption{
+    font-family: "Raleway", sans-serif !important;
+    font-weight: 500;
+    margin:10px;
+    font-size: 24px;
+    color: hsl(9, 58%, 49%);
+    font-family: 'PT Serif';
+}
+
+#icon{
+    width:100px;
+    height:100px;
+    float:left;
+    background-image:url(icon.gif);
+    background-repeat: no-repeat;
+    background-position:center center;
+    margin-top: 56px;
+    margin-left: -6px;
+}
+#icon2{
+    width:100px;
+    height:100px;
+    float:left;
+    background-image:url(icon2.gif);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+#source{
+  text-align:right;
+  /* padding-right: 11px; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  font-size: 14px;
+  color:#CCCCCC;
+}

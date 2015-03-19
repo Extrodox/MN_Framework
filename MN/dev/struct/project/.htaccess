@@ -1,0 +1,21 @@
+RewriteEngine On
+
+RewriteRule ^(.*\.(ini))$ / [NC,L,R]
+
+RewriteRule ^(.*//(library|config|sections|pages|trunk|layout).*)$ / [NC,L,R]
+
+RewriteRule ^(.*(start)(\\|/))$ / [NC,L,R]
+
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d 
+RewriteRule ^.*$ - [NC,L]
+
+RewriteRule ^(.*\.(css|jpg|png|js|ico|mp4))$ /start/$1 [NC,L,R]
+
+RewriteRule ^.*$ index.php [NC,L]
+php_value upload_max_filesize 200M
+php_value post_max_size 200M
+php_value max_execution_time 200
+php_value max_input_time 200

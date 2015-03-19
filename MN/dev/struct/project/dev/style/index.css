@@ -1,0 +1,107 @@
+body{
+    background-color: #fefefe;
+    }
+#main{
+    height: 500px;
+    
+    width: 700px;
+    
+    margin-left: -372px;
+    top: 7%;
+}
+.main{
+    position: relative;
+    background: #fefefe;
+    margin: auto;
+    }
+.first{            
+    /* position: absolute; */
+    /* left: 400px; */
+    /* top: 180px; */
+    /* width: 500px; */
+    /* background-color:#F1F3F5; */
+    /* box-shadow: 2px 2px 1px #ccc; */
+    }
+.first:hover{
+    border: none;
+    }
+    input:focus,select:focus{
+    outline: none !important;
+    border: 1px solid hsl(220, 50%, 50%) !important;
+  }
+.report{
+    text-align: center;
+    color: green;
+    font-size: 19px;
+    }
+         .left{
+                  float: left;
+                  margin-top: 31px;
+
+         	
+                  height: 90%;
+                  width: 189px;
+}
+            .left ul{
+                padding: 0;
+            }
+            .left li {
+                list-style:none;
+                /* font-weight: bold; */
+                background: hsl(0, 100%, 100%);
+                    padding: 3px;
+                    
+                margin: 5px;
+                    width:80px;
+                    text-align: right;
+                    padding-right:15px;
+                    
+                border-right: 3px solid hsl(240, 58%, 49%);
+            
+                height: 40px;
+                width: 145px;
+                line-height: 40px;
+                font-size: 16px;
+                cursor: pointer;
+                transition: 1s;
+}
+            
+                .left li a{
+                    color:black;
+                    text-decoration: none;
+
+                }
+                .left li a:active{
+                    color: #E9ECEF;
+                }
+         .right{
+
+         	float: left;
+         
+
+         	width: 440px;
+
+         	margin-top: 89px;
+
+         	padding: 10px;
+
+         	/* font-size: 20px !important; */
+
+}
+.right table{
+  font-size: 20px !important;
+}
+
+           h1,h4{
+               color: rgb(21, 21, 119);
+               margin-left:16px; 
+
+           
+               font-weight: 400;
+}
+           h4{
+            margin: 0;
+           
+            font-size: 20px;
+            color: black;
+}

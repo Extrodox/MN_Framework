@@ -1,0 +1,907 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"query"
+			],
+			[
+				"rgb",
+				"rgb2hex"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"tmp",
+				"tmpline"
+			],
+			[
+				"ma",
+				"Math"
+			],
+			[
+				"tt",
+				"ttfPath"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"elem",
+				"elemets"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"html",
+				"LGD_Html"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"Co",
+				"Comment"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cate",
+				"categories_list"
+			],
+			[
+				"isVal",
+				"isValidStudent"
+			],
+			[
+				"r",
+				"rotation"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ad",
+				"addScript"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"WER",
+				"WHERE"
+			],
+			[
+				"mul",
+				"multiRequest"
+			],
+			[
+				"word",
+				"wordsyno"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"preg",
+				"preg_split"
+			],
+			[
+				"q",
+				"qsynos"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"preg_",
+				"preg_split"
+			],
+			[
+				"mysql_rel",
+				"mysql_real_escape_string"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"flush",
+				"flush_me"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"new",
+				"newwords"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"tr",
+				"trHTML"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"P",
+				"prop"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ch",
+				"child"
+			],
+			[
+				"tot",
+				"totalChunks"
+			],
+			[
+				"chunk",
+				"chunk"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"node",
+				"nodes"
+			],
+			[
+				"chu",
+				"chunkSize"
+			],
+			[
+				"no",
+				"nodeValue"
+			],
+			[
+				"get",
+				"getButtons"
+			],
+			[
+				"event",
+				"eventname"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"se",
+				"searchLock"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"get_section_left",
+				"get_section_leftcontent"
+			],
+			[
+				"p",
+				"page"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"arr",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "library/mn/db/table.php",
+			"settings":
+			{
+				"buffer_size": 3080,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/nomorebore/library/mn/logic/form.php",
+			"settings":
+			{
+				"buffer_size": 2321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "library/mn/db/query.php",
+			"settings":
+			{
+				"buffer_size": 2989,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/speech/index.php",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n $con = mysqli_connect(\"localhost\", \"root\", \"\", \"mysql\");\nif (mysqli_connect_errno()) {\n    echo \"Failed to connect to MySQL: \" . mysqli_connect_error();\n}\n$filename = \"rockdata.txt\";\n$file = fopen($filename, \"r\") or exit(\"Unable to open file!\");\n\nif ($file) {\n    $array1 = explode(\"\\n\", fread($file, filesize($filename)));\n}\nforeach ($array1 as $value) {\n    echo $value . \"\n\";\n    if (strlen($value) >= 10) {\n    $value=mysql_real_escape_string($value);\n        $sqli = \"INSERT INTO rocklyrics (phrase) VALUES('$value')\";\n        \n        if (!mysqli_query($con, $sqli)) {\n            continue;\n        }\n        echo \"1 record added\" . \"\n\";\n    }\n}\nfclose($file);\n?>",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/MN/library/mn/db/row.php",
+		"/C/Downloads/Software/opencv/modules/java/generator/src/cpp/VideoCapture.cpp",
+		"/C/Downloads/Software/opencv/modules/java/test/src/org/opencv/test/OpenCVTestRunner.java",
+		"/C/Downloads/Software/opencv/modules/java/test/src/org/opencv/test/OpenCVTestCase.java",
+		"/C/Users/Etrodox/eclipse/AnalysisOpenCV/src/view/Dashboard2.java",
+		"/C/Users/Etrodox/eclipse/AnalysisOpenCV/src/view/Dashboard.java",
+		"/C/wamp/www/topupchat/home.php",
+		"/C/wamp/www/topupchat/index.php",
+		"/C/wamp/www/topupchat/profile.php",
+		"/C/wamp/www/topupchat/jokes.php",
+		"/C/wamp/www/topupchat/about_me.php",
+		"/C/wamp/www/videoupload/hi.php",
+		"/C/wamp/www/nomorebore/library/mn/logic/form.php",
+		"/C/wamp/www/vbp/ffmpg/test.php",
+		"/C/wamp/www/vbp/ffmpg/index.php",
+		"/C/wamp/www/MN/pages/home/config.ini",
+		"/C/wamp/www/MN/library/mn/view/layout.php",
+		"/C/wamp/www/vbp/ffmpg/test_ffmpeg.php",
+		"/C/wamp/www/topupchat/class.share.php",
+		"/C/Users/Etrodox/eclipse/AnalysisOpenCV/src/view/Dashboard.form",
+		"/C/wamp/www/MN/pages/lgdtest/logic/pre.php",
+		"/C/wamp/www/MN/pages/lgdtest/index.php",
+		"/C/wamp/www/MN/library/lgd/htmljson.php",
+		"/C/wamp/www/aspirewebsite/pages/register/logic/index.php",
+		"/C/wamp/www/aspirewebsite/pages/register/logic/pre.php",
+		"/C/wamp/www/aspirewebsite/pages/register/logic/post.php",
+		"/C/wamp/www/aspirewebsite/pages/register/sections/form/logic.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/sections/form/view.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/sections/form/logic.php",
+		"/C/wamp/www/MN/library/lgd/layertextelement.php",
+		"/C/wamp/www/MN/library/lgd/layerimageelement.php",
+		"/C/wamp/www/MN/library/lgd/font.php",
+		"/C/wamp/www/MN/library/lgd/border.php",
+		"/C/wamp/www/MN/library/lgd/color.php",
+		"/C/wamp/www/MN/library/lgd/layeredimage.php",
+		"/C/wamp/www/MN/start/js/jquery-latest.js",
+		"/C/wamp/www/MN/library/lgd/layer.php",
+		"/C/wamp/www/MN/library/lgd/layerelement.php",
+		"/C/wamp/www/MN/test/pixeltopoint.htm",
+		"/C/Downloads/Software/opencv/samples/java/eclipse/HelloCV/src/Main.java",
+		"/C/Users/Etrodox/eclipse/HelloCV/.classpath",
+		"/C/Downloads/Software/opencv/samples/java/sbt/project/build.scala",
+		"/C/Windows/System32/kernel32.dll",
+		"/C/Windows/System32/ntdll.dll",
+		"/C/Windows/System32/KernelBase.dll",
+		"/C/Downloads/docs.opencv.org/doc/tutorials/introduction/windows_visual_studio_Opencv/windows_visual_studio_Opencv.htm",
+		"/C/Downloads/Software/opencv/modules/java/generator/src/java/highgui+VideoCapture.java",
+		"/C/Users/Etrodox/eclipse/HelloCV/.project",
+		"/C/wamp/www/MN/library/mn/db/table.php",
+		"/C/wamp/www/MN/library/mn/db/class.php",
+		"/C/wamp/www/womania/index.php",
+		"/C/wamp/www/MN/library/lgd/html.php",
+		"/C/wamp/www/MN/library/lgd/htmltolgd",
+		"/C/wamp/www/MN/mn.sublime-workspace",
+		"/C/Downloads/Software/opencv/platforms/winrt/scripts/cmake_winrt.cmd",
+		"/C/Downloads/Software/opencv/doc/_static/insertIframe.js",
+		"/C/Downloads/Software/opencv/samples/c/CMakeLists.txt",
+		"/C/wamp/www/painty/painty.php",
+		"/C/wamp/www/womania/model/dothankyou.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/category.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/author.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/comments.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-includes/comment-template.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/sections/courses/view.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/page.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/content-page.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/image.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/search.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/index.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/single.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/functions.php",
+		"/C/wamp/www/aspirewebsite/pages/contactus/sections/map/view.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/header.php",
+		"/C/wamp/www/aspirewebsite/sections/header/view.php",
+		"/C/wamp/www/aspirewebsite/pages/projectdefination/sections/defination/view.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/group/projecttraining.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/group/android.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/logic/idp.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/group/idp.php",
+		"/C/wamp/www/aspirewebsite/pages/courses/group/academic.php",
+		"/C/wamp/www/aspirewebsite/pages/download/index.php",
+		"/C/wamp/www/aspirewebsite/pages/download/layout/layout.php",
+		"/C/wamp/www/aspirewebsite/layout/layout.php",
+		"/C/wamp/www/aspirewebsite/pages/download/sections/banner/view.php",
+		"/C/wamp/www/aspirewebsite/pages/download/sections/content/view.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-config.php",
+		"/C/wamp/www/aspirewebsite/sections/headlink/view.php",
+		"/C/wamp/www/aspirewebsite/sections/footer/view.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/content.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-includes/widgets.php",
+		"/C/wamp/www/aspirewebsite/blog/wp-content/themes/twentytwelve/sidebar.php",
+		"/C/wamp/www/aspirewebsite/start/css/style.css",
+		"/C/wamp/www/mnicates/library/mn/logic/form.php",
+		"/C/wamp/www/mnicates/php.ini",
+		"/C/wamp/www/aspirewebsite/library/mn/db/table.php",
+		"/C/wamp/www/aspirewebsite/pages/apply/sections/form/view.php",
+		"/C/wamp/www/aspirewebsite/sections/home/view.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/index.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/sections/banner/logic.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/sections/contactinfo/logic.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/sections/map/logic.php",
+		"/C/wamp/www/aspirewebsite/pages/contactus/config.ini",
+		"/C/wamp/www/aspirewebsite/pages/contactus/index.php",
+		"/C/wamp/www/aspirewebsite/pages/signin/layout/layout.php",
+		"/C/wamp/www/aspirewebsite/pages/apply/sections/form/logic.php",
+		"/C/wamp/www/aspirewebsite/library/mn/logic/form.php",
+		"/C/wamp/www/aspirewebsite/library/mn/logic/section.php",
+		"/C/wamp/www/aspirewebsite/pages/register/config.ini",
+		"/C/wamp/www/aspirewebsite/pages/signin/config.ini",
+		"/C/wamp/www/aspirewebsite/pages/apply/config.ini",
+		"/C/wamp/www/aspirewebsite/config/index.ini",
+		"/C/wamp/www/aspirewebsite/library/mn/db/row.php",
+		"/C/wamp/www/aspirewebsite/pages/home/sections/applywidget/view.php",
+		"/C/wamp/www/MN/library/mn/app/chain.php",
+		"/C/wamp/www/MN/library/mn/app/class.php",
+		"/C/wamp/www/MN/index.php",
+		"/C/wamp/www/MN/library/mn/autoloader/class.php",
+		"/C/wamp/www/MN/config/index.ini",
+		"/C/wamp/www/MN/library/mn/autocontroller/path.php",
+		"/C/wamp/www/synoword/script.js",
+		"/C/wamp/www/MN/pages/lgdtest/config.ini",
+		"/C/wamp/www/mefamous/model/statusimage.php",
+		"/C/wamp/www/mefamous/model/coverstatus.php",
+		"/C/wamp/www/mefamous/model/Suggestions.php",
+		"/C/wamp/www/mefamous/model/StackedBG.php",
+		"/C/wamp/www/MN/library/lgd/LayerTextElement.php",
+		"/C/wamp/www/MN/library/lgd/LayerImageElement.php",
+		"/C/wamp/www/MN/library/lgd/LayerElement.php"
+	],
+	"find":
+	{
+		"height": 69.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"limit",
+			"EXTENSION",
+			"extension",
+			"facebook",
+			"n_",
+			"UnsatisfiedLinkError",
+			"signature",
+			"log_tag",
+			"n_VideoCapture",
+			"border",
+			"Border",
+			"border",
+			"Border",
+			"border",
+			"colorAlpha",
+			"color",
+			"point",
+			"pixel",
+			"fami",
+			"unit2",
+			"font",
+			"ttf",
+			"load",
+			"add",
+			"layers",
+			"elements",
+			"element",
+			"html",
+			"Html",
+			"html",
+			"Html",
+			"html",
+			"prev_bold",
+			");\n",
+			"prev_bold",
+			"php",
+			"p",
+			"title",
+			"span",
+			"photo6",
+			"meta",
+			"( $req ? '<span>*</span>' : '' )",
+			"</p>",
+			"<p class=\"comment-form",
+			"<div class=\"comment-form",
+			"comment",
+			"_form",
+			"form",
+			"Reply",
+			"comment_class",
+			"comment",
+			"extract",
+			"function extract",
+			"extract",
+			"categories",
+			"<article>",
+			"dynamic",
+			"search",
+			"edit_link",
+			"meta",
+			"read",
+			"/single-project.html",
+			"0mcns",
+			"/single-project.html",
+			"href=\"",
+			"class=\"zoom-image\"",
+			"templ",
+			"Application",
+			"com",
+			"path",
+			"MN",
+			",",
+			")",
+			"url(",
+			"tr",
+			"extend",
+			"$final",
+			"final",
+			"before",
+			"					\n",
+			"table",
+			"Node",
+			"$",
+			"$_",
+			";",
+			"chunk",
+			"database",
+			"]$/\",",
+			"animate",
+			"currentSN",
+			"con",
+			"lastCss",
+			"			\n",
+			"/",
+			"<div class=\"eventname\">",
+			"if",
+			"object",
+			"black",
+			"changeLine(\"",
+			"changeLine",
+			"$(\".teqnix>h1\").css(\"color\",\"",
+			"cantainer",
+			"container",
+			"cantainer",
+			"font-family",
+			"mono",
+			"font-fa",
+			"#AC193D",
+			"event",
+			"on",
+			"PRAKRUTI",
+			"http://localhost/teqnix13",
+			"objects/new%20folder",
+			"objects/new folder",
+			"url('",
+			"height",
+			"15",
+			"94",
+			"96",
+			"15",
+			"src=\"",
+			"src",
+			"Light",
+			"desk",
+			"get",
+			"<img src=\"\"",
+			"alt=\"featured Book\"></a>",
+			"<a href=\"#\"><img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href=\"/",
+			"\\n",
+			"",
+			"json",
+			" !important;",
+			"<div class=\"eventname\"><span>",
+			"//changeLine(\"",
+			"//changeLine",
+			"//$(\".teqnix>h1\").css(\"color\",\"",
+			"url('/",
+			"src=\"/",
+			"<img src=\"\" class=\"fv5\" ",
+			"alt=\"featured Book\"></div></a>",
+			"<a href=\"#\"><div class=\"fv5\"><img",
+			"div",
+			";",
+			"float:left;",
+			".fc",
+			"padding:0",
+			"{ height:px; width:px; padding:px;",
+			"{ height:px; width:px; padding;",
+			"src=\"",
+			"src=\"images/",
+			"\" src=\"",
+			"\" src=\"images/",
+			"\" src=\"",
+			"type=\"text/javascript\" src=\"js/",
+			"rel=\"stylesheet\" href=\"css/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "library/mn/db/table.php",
+					"settings":
+					{
+						"buffer_size": 3080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2043,
+								2043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1319.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/nomorebore/library/mn/logic/form.php",
+					"settings":
+					{
+						"buffer_size": 2321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1669.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "library/mn/db/query.php",
+					"settings":
+					{
+						"buffer_size": 2989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1575,
+								1575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1059.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/speech/index.php",
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								676
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
